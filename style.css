@@ -1,0 +1,40 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    /*background-color: #4682B4;*/
+    background-image: url("unnamed.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.container01 {
+    width: 250px;
+    height: 250px;
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 50%;
+}
+.container02 {
+    width: 250px;
+    height: 250px;
+    background-image: url("download (1).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 50%;
+}
+.container03 {
+    width: 250px;
+    height: 250px;
+    background-image: url("Sapo-Tomate-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 50%;
+}
